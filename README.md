@@ -1,2 +1,2 @@
 # preface
-Ember + boilerplate stuff 
+Ember + boilerplate stuff
